@@ -73,4 +73,3 @@ if __name__ == '__main__':
         print("[FLASE] The output are the same :)")
     else:
         print('[TRUE] The strings are one edit distance away!')
-            
